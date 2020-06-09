@@ -1,6 +1,6 @@
 # CVPR2020-Code
 
-CVPR 2020 Paper开源项目合集，同时欢迎各位大佬提交issue，分享CVPR 2020开源项目
+CVPR 2020 Paper Open source project
 
 - [CNN](#CNN)
 - [Image Classification](#Image-Classification)
@@ -88,7 +88,7 @@ CVPR 2020 Paper开源项目合集，同时欢迎各位大佬提交issue，分享
 
 - Paper：https://arxiv.org/abs/2004.07570 
 
-- Code（好像被原作者删除了）：https://github.com/ildoonet/spatially-attentive-output-layer 
+- Code（Seems to be deleted by the original author）：https://github.com/ildoonet/spatially-attentive-output-layer 
 
 <a name="Object-Detection"></a>
 
