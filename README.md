@@ -112,11 +112,6 @@ Code：https://github.com/jshilong/SEPC
 
 - Code：https://github.com/Sense-X/TSD 
 
-**Scale-equalizing Pyramid Convolution for Object Detection**
-
-- Paper：No
-- Code：https://github.com/jshilong/SEPC 
-
 **Detection in Crowded Scenes: One Proposal, Multiple Predictions**
 
 - Paper：https://arxiv.org/abs/2003.09163
