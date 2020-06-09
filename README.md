@@ -279,7 +279,7 @@ Code：https://github.com/Scalsol/mega.pytorch
 
 **Super-BPD: Super Boundary-to-Pixel Direction for Fast Image Segmentation**
 
-- Paper：No
+- Paper：https://arxiv.org/abs/2006.00303
 
 - Code：https://github.com/JianqiangWan/Super-BPD
 
